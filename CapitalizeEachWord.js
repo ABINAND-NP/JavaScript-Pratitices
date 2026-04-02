@@ -22,3 +22,4 @@ function capitalizeEachWords(str){
 }
 
 console.log(capitalizeEachWords("hello world user sam"));
+///////////
